@@ -1,0 +1,14 @@
+html {
+    /* ตั้งค่าสีพื้นหลังตามที่คุณเลือกไว้ในแหล่งข้อมูล [1] */
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    background-color: white; /* พื้นที่ในเกมเป็นสีขาวเพื่อให้เห็นตัวละครชัดเจน */
+    border: 2px solid #333;
+}
